@@ -1,8 +1,12 @@
 .DS_Store
 node_modules/
 dist/
-npm-debug.log
-yarn-error.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+selenium-debug.log
+package-lock.json
+.gitignore
 
 # Editor directories and files
 .idea
